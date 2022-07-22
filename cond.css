@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.trafficLights {
+    margin: auto;
+    margin-top: 15%;
+    border: black solid;
+    text-align: center;
+    width: 7vw;
+    height: 44vh;
+    padding: 2px;
+    justify-content: space-around;
+    border-radius: 10px;
+    background-color: black;
+}
+
+
+.trafficLights div {
+    width:80px;
+    /* opacity: none; */
+    height: 80px;
+    border-radius: 50%;
+    margin-top: 17%;
+   margin: auto;
+
+} 
+.finish{
+    color: white;
+}
+.red{
+    background-color: red;
+
+}
+.yellow{
+    background-color: yellow;
+
+}
+.green{
+    background-color: green;
+
+}
